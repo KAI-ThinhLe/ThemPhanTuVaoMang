@@ -1,0 +1,14 @@
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\bin\Debug\net8.0\Mang1Chieu.exe
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\bin\Debug\net8.0\Mang1Chieu.deps.json
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\bin\Debug\net8.0\Mang1Chieu.runtimeconfig.json
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\bin\Debug\net8.0\Mang1Chieu.dll
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\bin\Debug\net8.0\Mang1Chieu.pdb
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\obj\Debug\net8.0\Mang1Chieu.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\obj\Debug\net8.0\Mang1Chieu.AssemblyInfoInputs.cache
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\obj\Debug\net8.0\Mang1Chieu.AssemblyInfo.cs
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\obj\Debug\net8.0\Mang1Chieu.csproj.CoreCompileInputs.cache
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\obj\Debug\net8.0\Mang1Chieu.dll
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\obj\Debug\net8.0\refint\Mang1Chieu.dll
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\obj\Debug\net8.0\Mang1Chieu.pdb
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\obj\Debug\net8.0\Mang1Chieu.genruntimeconfig.cache
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\obj\Debug\net8.0\ref\Mang1Chieu.dll
